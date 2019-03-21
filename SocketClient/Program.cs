@@ -19,7 +19,9 @@ namespace SocketClient
         public static void StartClient()
         {
             byte[] bytes = new byte[1024];
-
+			//teste
+			//teste2
+			
             try
             {
                 //Conecta ao servidor remoto
